@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/avanishkum53367" target="blank"><img src="https://img.shields.io/twitter/follow/avanishkum53367?logo=twitter&style=for-the-badge" alt="avanishkum53367" /></a> </p>
 
-- 👨‍💻 Most Recent Work 👨‍💻 [ZEE5 Cinema Clone](https://zee5-cinema-clone.netlify.app/)
+- 👨‍💻 Most Recent Work 👨‍💻
+- 
+- [ZEE5 Cinema Clone](https://zee5-cinema-clone.netlify.app/)
+- 
+- [Facebook Clone](https://facebook-reactjs-clone.netlify.app/)
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 Most Recent Work 👨‍💻 [Facebook Clone](https://facebook-reactjs-clone.netlify.app/)
+
 
 
 - 📫 How to reach me **avanishkumar0542@gmail.com**
@@ -18,7 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avanishkum53367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishkum53367" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avanish-kumar-131743204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-kumar-131743204/" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/kavanish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kavanish/" height="30" width="40" /></a>
 </p>
 
