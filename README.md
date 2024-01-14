@@ -12,7 +12,6 @@
 
 - 👨‍💻 Most Recent Work 👨‍💻 [Facebook Clone](https://facebook-reactjs-clone.netlify.app/)
 
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **avanishkumar0542@gmail.com**
 
