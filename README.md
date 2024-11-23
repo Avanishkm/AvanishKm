@@ -10,7 +10,7 @@
 - [ZEE5 Cinema Clone](https://zee5-cinema-clone.netlify.app/) 
 - [Facebook Clone](https://facebook-reactjs-clone.netlify.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** and **NodeJS**
 
 - 📫 How to reach me **avanishkumar0542@gmail.com**
 
